@@ -1,0 +1,43 @@
+a{
+    
+    color: white;
+    overflow: hidden;
+    padding-inline: 200px;
+    text-decoration: none;
+}
+ nav{
+    padding: 0px;
+    border: 1px solid black;
+    margin:-8px;
+    background-color: rgb(70, 83, 83);
+    position:fixed;
+    width: 99.9%;
+}
+#h1{
+ display:inline-flex;
+ gap:6px;
+}
+.h2{
+position: relative;
+}
+#h2
+{
+display: inline-flex; 
+gap:6px;
+}
+.h3{
+padding-left: 180px;
+}
+.india{
+    background-color: black;
+    color: white;
+    width: 200px;
+    height: 50px;
+}
+b{
+    position: absolute;
+}
+
+
+
+
